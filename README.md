@@ -10,7 +10,6 @@ A modern digital menu platform that helps restaurants manage and showcase their 
 
 * 🍽️ Beautiful & organized digital menus
 * 📱 Mobile-first & responsive design
-* ⚡ Update items, prices & photos instantly
 * 🔍 Smart search & filters
 * ⭐ Popular & featured item highlights
 * 🔐 Secure backend with Supabase
